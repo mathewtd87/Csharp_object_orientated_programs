@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses.deps.json
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses.runtimeconfig.json
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses.runtimeconfig.dev.json
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses.dll
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/bin/Debug/netcoreapp3.0/AbstractClasses.pdb
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/obj/Debug/netcoreapp3.0/AbstractClasses.csprojAssemblyReference.cache
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/obj/Debug/netcoreapp3.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/obj/Debug/netcoreapp3.0/AbstractClasses.AssemblyInfo.cs
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/obj/Debug/netcoreapp3.0/AbstractClasses.dll
+/Users/Mathew/Projects/AbstractClasses/AbstractClasses/obj/Debug/netcoreapp3.0/AbstractClasses.pdb

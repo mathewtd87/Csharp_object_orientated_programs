@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces.deps.json
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces.runtimeconfig.json
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces.runtimeconfig.dev.json
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces.dll
+/Users/Mathew/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.0/Interfaces.pdb
+/Users/Mathew/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.0/Interfaces.csprojAssemblyReference.cache
+/Users/Mathew/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.0/Interfaces.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.0/Interfaces.AssemblyInfo.cs
+/Users/Mathew/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.0/Interfaces.dll
+/Users/Mathew/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.0/Interfaces.pdb

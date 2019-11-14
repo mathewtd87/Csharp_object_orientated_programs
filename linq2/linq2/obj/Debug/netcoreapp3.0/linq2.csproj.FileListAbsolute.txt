@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2.deps.json
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2.runtimeconfig.json
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2.runtimeconfig.dev.json
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2.dll
+/Users/Mathew/Projects/linq2/linq2/bin/Debug/netcoreapp3.0/linq2.pdb
+/Users/Mathew/Projects/linq2/linq2/obj/Debug/netcoreapp3.0/linq2.csprojAssemblyReference.cache
+/Users/Mathew/Projects/linq2/linq2/obj/Debug/netcoreapp3.0/linq2.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/linq2/linq2/obj/Debug/netcoreapp3.0/linq2.AssemblyInfo.cs
+/Users/Mathew/Projects/linq2/linq2/obj/Debug/netcoreapp3.0/linq2.dll
+/Users/Mathew/Projects/linq2/linq2/obj/Debug/netcoreapp3.0/linq2.pdb

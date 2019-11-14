@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.deps.json
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.runtimeconfig.json
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.runtimeconfig.dev.json
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.dll
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.pdb
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.csprojAssemblyReference.cache
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.AssemblyInfo.cs
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.dll
+/Users/Mathew/Projects/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.pdb

@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics.deps.json
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics.runtimeconfig.json
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics.runtimeconfig.dev.json
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics.dll
+/Users/Mathew/Projects/Generics/Generics/bin/Debug/netcoreapp3.0/Generics.pdb
+/Users/Mathew/Projects/Generics/Generics/obj/Debug/netcoreapp3.0/Generics.csprojAssemblyReference.cache
+/Users/Mathew/Projects/Generics/Generics/obj/Debug/netcoreapp3.0/Generics.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/Generics/Generics/obj/Debug/netcoreapp3.0/Generics.AssemblyInfo.cs
+/Users/Mathew/Projects/Generics/Generics/obj/Debug/netcoreapp3.0/Generics.dll
+/Users/Mathew/Projects/Generics/Generics/obj/Debug/netcoreapp3.0/Generics.pdb

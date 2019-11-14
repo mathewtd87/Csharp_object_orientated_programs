@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism.deps.json
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism.runtimeconfig.json
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism.runtimeconfig.dev.json
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism.dll
+/Users/Mathew/Projects/Polymorphism/Polymorphism/bin/Debug/netcoreapp3.0/Polymorphism.pdb
+/Users/Mathew/Projects/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.0/Polymorphism.csprojAssemblyReference.cache
+/Users/Mathew/Projects/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.0/Polymorphism.AssemblyInfo.cs
+/Users/Mathew/Projects/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.0/Polymorphism.dll
+/Users/Mathew/Projects/Polymorphism/Polymorphism/obj/Debug/netcoreapp3.0/Polymorphism.pdb

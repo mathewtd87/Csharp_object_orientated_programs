@@ -1,0 +1,11 @@
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses.deps.json
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses.runtimeconfig.json
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses.runtimeconfig.dev.json
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses.dll
+/Users/Mathew/Projects/OOClasses/OOClasses/bin/Debug/netcoreapp3.0/OOClasses.pdb
+/Users/Mathew/Projects/OOClasses/OOClasses/obj/Debug/netcoreapp3.0/OOClasses.csprojAssemblyReference.cache
+/Users/Mathew/Projects/OOClasses/OOClasses/obj/Debug/netcoreapp3.0/OOClasses.AssemblyInfoInputs.cache
+/Users/Mathew/Projects/OOClasses/OOClasses/obj/Debug/netcoreapp3.0/OOClasses.AssemblyInfo.cs
+/Users/Mathew/Projects/OOClasses/OOClasses/obj/Debug/netcoreapp3.0/OOClasses.dll
+/Users/Mathew/Projects/OOClasses/OOClasses/obj/Debug/netcoreapp3.0/OOClasses.pdb
